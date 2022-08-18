@@ -1,0 +1,26 @@
+body{
+    background-color: #080a0c;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #080a0c;
+  /* padding: 5px; */
+  width: 300px;
+  height: 300px;
+  margin: 100px 0px 0px 500px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.986);
+  border: 5px solid rgb(0, 0, 0);
+  /* padding: 20px; */
+  font-size: 30px;
+  text-align: center;
+}
+
+h4{
+    color: white;
+    margin: 100px 0px 0px 580px;
+    font-size: x-large;
+}
